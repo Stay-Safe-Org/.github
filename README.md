@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/<ORG>/Stay-Safe/main/assets/logo-512x512.png" width="84" height="84" alt="Stay Safe logo" />
+  <img src="https://github.com/user-attachments/assets/474c9a6a-18cf-445a-b3d6-42cb30eebf51" width="84" height="84" alt="Stay Safe logo" />
   <h1>Stay Safe</h1>
   <p><strong>Connected care, guaranteed safety.</strong></p>
 </div>
