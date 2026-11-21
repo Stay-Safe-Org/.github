@@ -1,6 +1,8 @@
-# Stay Safe
-
-**Connected care, guaranteed safety.**
+<div align="center">
+  <img src="https://raw.githubusercontent.com/<ORG>/Stay-Safe/main/assets/logo-512x512.png" width="84" height="84" alt="Stay Safe logo" />
+  <h1>Stay Safe</h1>
+  <p><strong>Connected care, guaranteed safety.</strong></p>
+</div>
 
 Stay Safe is an accessible emergency alert platform built for elderly dependents (including users with low vision, hand tremors, and limited tech familiarity) and their family carers.
 
